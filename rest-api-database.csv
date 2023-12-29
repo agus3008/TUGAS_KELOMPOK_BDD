@@ -1,0 +1,16 @@
+product,category,price,qty
+keyboard,elektronik,1500000,20
+mouse,elektronik,500000,30
+microphone,elektronik,450000,35
+monitor,elektronik,2000000,10
+usb hub,elektronik,250000,50
+sound speaker,elektronik,300000,50
+mouse pad,peripheral,100000,50
+deskmat,peripheral,150000,100
+bracket,peripheral,300000,10
+graphic card,computer,2500000,20
+processor,computer,3000000,15
+fan white,computer,200000,10
+ram 8 gb,computer,500000,35
+ipad,gadget,14000000,45
+iphone,gadget,15000000,30
